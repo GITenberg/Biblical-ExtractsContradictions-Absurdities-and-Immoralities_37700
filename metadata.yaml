@@ -1,0 +1,28 @@
+_repo: Biblical-ExtractsContradictions-Absurdities-and-Immoralities_37700
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooper, Robert, secularist
+    alias: Cooper, Robert
+    gutenberg_agent_id: '38997'
+    url: http://www.gutenberg.org/2009/agents/38997
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Controversial literature'
+- !lcc 'BL'
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcsh 'Bible -- Miscellanea'
+title: "Biblical Extracts; Or, The Holy Scriptures Analyzed;\r\nShowing Its Contradictions,\
+  \ Absurdities, and Immoralities"
+url: http://www.gutenberg.org/ebooks/37700
